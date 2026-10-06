@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 I gave a talk "Multimodal Deep Learning Models Integrating Preoperative Imaging and Clinical Data to Predict
-One-Year Patient-Reported Outcomes and Healthcare Utilization Outcomes After Total Knee Arthroplasty" at the Cleveland Clinic Orthopedics Research Day 2026.
+One-Year Patient-Reported Outcomes and Healthcare Utilization Outcomes After Total Knee Arthroplasty" at the [Cleveland Clinic Orthopedics Research Day 2026](https://www.linkedin.com/posts/cleveland-clinic-orthopaedic-surgery-sports-medicine_grateful-for-a-day-to-pause-connect-and-activity-7476020148383133698-lPOt).
 
