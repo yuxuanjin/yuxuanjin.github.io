@@ -26,6 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi, I'm Yuxuan Jin, also go by Daisy. I'm currently a Lead Biostatistician at [Cleveland Clinic](https://en.wikipedia.org/wiki/Cleveland_Clinic), a major academic medical center and health system in the United States. 
+For the past eight years, I collaborate closely with orthopedic surgeons and clinical researchers to develop inferential and predictive models that support clinical decision-making and identify factors associated with patient-reported outcomes and healthcare utilization. More recently, my research has expanded into artificial intelligence for healthcare, with a focus on developing multimodal deep learning models that integrate imaging, clinical notes, and electronic health record data to improve outcome prediction. 
+
+In addition to my research, I serve on the Statistical Editorial Board of CHEST and regularly present my work at clinical and statistical conferences, including meetings of the American College of Chest Physicians, Conference on Statistical Practice, International Society for Clinical Biostatistics, and American Academy of Orthopaedic Surgeons. Across these projects, my work lies at the intersection of biostatistics, machine learning, and clinical research, with a broader goal of developing reliable and clinically meaningful AI methods for healthcare.
+
+Previously, I obtained my BS in Biology from UCLA, my MS in Biostatistics from Washington University in St Louis, and my Master of Computer and Information Technology from University of Pennsylvania. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
