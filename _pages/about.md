@@ -9,20 +9,20 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <!-- <p>555 your office number</p> -->
     <p>9500 Euclid Ave</p>
     <p>Cleveland, Ohio 44195</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -32,6 +32,6 @@ For the past eight years, I collaborate closely with orthopedic surgeons and cli
 
 My research has been cited in international clinical guidelines, recognized as an Editors’ Choice article in leading journal, and featured in professional podcasts and news media.
 
-In addition to my research, I serve on the Editorial Board of CHEST and regularly present my work at clinical and statistical conferences, including meetings of the American College of Chest Physicians, Conference on Statistical Practice, International Society for Clinical Biostatistics, and American Academy of Orthopaedic Surgeons. Across these projects, my work lies at the intersection of biostatistics, machine learning, and clinical research, with a broader goal of developing reliable and clinically meaningful AI methods for healthcare.
+In addition to my research, I serve on the Editorial Board of *CHEST* and regularly present my work at clinical and statistical conferences, including meetings of the American College of Chest Physicians, Conference on Statistical Practice, International Society for Clinical Biostatistics, and American Academy of Orthopaedic Surgeons. Across these projects, my work lies at the intersection of biostatistics, machine learning, and clinical research, with a broader goal of developing reliable and clinically meaningful AI methods for healthcare.
 
 My academic training spans biology, biostatistics, and computer science. I received my B.S. in Biology from [UCLA](https://ucla.edu), my M.S. in Biostatistics from [Washington University in St Louis](https://i2db.wustl.edu/educationprograms/master-of-science-in-biostatistics-and-data-science/), and my Master of Computer and Information Technology from [University of Pennsylvania](https://online.engineering.upenn.edu/degrees/mcit-online/). 
