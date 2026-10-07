@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I gave an oral presentation "" at the annual meeting of the [International Society of Clinical Biostatistics 2024](https://communities.isi-web.org/event-iscb2024)) in Thessaloniki, Greece.
+I gave an oral presentation "Prediction Models at the Crossroads of Statistical Inference and Machine Learning" [International Society of Clinical Biostatistics Conference (ISCB) 2024](https://communities.isi-web.org/event-iscb2024) in Thessaloniki, Greece.
 
 
