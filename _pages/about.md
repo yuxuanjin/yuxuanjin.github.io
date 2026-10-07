@@ -14,7 +14,7 @@ profile:
     <!-- <p>Cleveland, Ohio 44195</p>  -->
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -34,4 +34,4 @@ My research has been cited in international clinical guidelines, recognized as a
 
 In addition to my research, I serve on the Editorial Board of *CHEST* and regularly present my work at clinical and statistical conferences, including meetings of the American College of Chest Physicians, Conference on Statistical Practice, International Society for Clinical Biostatistics, and American Academy of Orthopaedic Surgeons. Across these projects, my work lies at the intersection of biostatistics, machine learning, and clinical research, with a broader goal of developing reliable and clinically meaningful AI methods for healthcare.
 
-My academic training spans biology, biostatistics, and computer science. I received my B.S. in Biology from [UCLA](https://ucla.edu), my M.S. in Biostatistics from [Washington University in St Louis](https://i2db.wustl.edu/educationprograms/master-of-science-in-biostatistics-and-data-science/), and my Master of Computer and Information Technology from [University of Pennsylvania](https://online.engineering.upenn.edu/degrees/mcit-online/). 
+My academic training spans biology, biostatistics, and computer science. I received my B.S. in Biology with a minor in French from [UCLA](https://ucla.edu), my M.S. in Biostatistics from [Washington University in St Louis](https://i2db.wustl.edu/educationprograms/master-of-science-in-biostatistics-and-data-science/), and my Master of Computer and Information Technology from [University of Pennsylvania](https://online.engineering.upenn.edu/degrees/mcit-online/). 
