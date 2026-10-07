@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2026-03-5 11:30:00-0400
+date: 2025-01-09 15:33:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave an oral presentation "Multimodal Deep Learning Models Integrating Preoperative Imaging and Clinical Data to Predict One-Year Patient-Reported Outcomes After Total Knee Arthroplasty" at the annual meeting of the [American Academy of Orthopaedic Surgeons 2026](https://www.aaos.org/annual/) in New Orleans.
+I was recognized by [*Arthritis Care & Research*](https://acrjournals.onlinelibrary.wiley.com/journal/21514658), a leading rheumatology journal, as top 5% of all reviewers with respect to the number of reviews, the quality of your reviews, and their timeliness for my peer-review contributions in 2024.
 
 
