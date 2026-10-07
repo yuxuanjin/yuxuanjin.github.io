@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I was recognized by *[Arthritis Care & Research]*(https://acrjournals.onlinelibrary.wiley.com/journal/21514658), a leading rheumatology journal, as a top-performing methods/statistical reviewer for my peer-review contributions in 2025.
+I was recognized by [*Arthritis Care & Research*](https://acrjournals.onlinelibrary.wiley.com/journal/21514658), a leading rheumatology journal, as a top-performing methods/statistical reviewer for my peer-review contributions in 2025.
 
 
